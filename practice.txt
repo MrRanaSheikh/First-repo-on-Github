@@ -3,4 +3,5 @@ I'm 19 years old.
 I'm practicing Git and Github.
 Now, I'm adding some text in this file.
 From now, I know that what is pull command and how to use it.
-I've completed 15 videos on git & github series of Anisul Islam Sir.
+Now, I'm learning branch and merge and also practicing.I've completed 15 videos on git & github series of Anisul Islam Sir.
+
