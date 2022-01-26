@@ -4,4 +4,6 @@ I'm practicing Git and Github.
 Now, I'm adding some text in this file.
 From now, I know that what is pull command and how to use it.
 Now, I'm learning branch and merge and also practicing.I've completed 15 videos on git & github series of Anisul Islam Sir.
-Here,,I'm adding some another text from main branch.
+I'm adding some text from feture1 branch.
+
+
